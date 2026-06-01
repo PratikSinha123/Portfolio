@@ -51,7 +51,7 @@ const Work = () => {
       title: "Vallo Mobility",
       category: "Software Development Intern",
       tools: "Spring Boot, React Native, API Design",
-      image: "/images/vallo.jpg",
+      image: "/images/vallo.png",
       link: "https://vallo.in"
     },
     {
