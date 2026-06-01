@@ -48,11 +48,11 @@ const Work = () => {
 }, []);
   const projects = [
     {
-      title: "Routo",
-      category: "Senior Backend Developer",
-      tools: "Node.js, Database Management, API Design",
-      image: "/images/routo.jpg",
-      link: "https://routohere.com"
+      title: "Vallo Mobility",
+      category: "Software Development Intern",
+      tools: "Spring Boot, React Native, API Design",
+      image: "/images/vallo.jpg",
+      link: "https://vallo.in"
     },
     {
       title: "AI Trachea Prediction - UPES Research",

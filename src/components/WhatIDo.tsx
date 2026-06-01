@@ -90,7 +90,7 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Architecting robust, scalable, and highly performant web applications, drawing from my experience as a Senior Backend Developer at Routo and full-stack projects like Waffle Da. From robust server-side APIs to responsive frontend layouts, I transform complex requirements into seamless digital experiences.
+                Architecting robust, scalable, and highly performant applications, drawing from my experience as a Software Development Intern at Vallo Mobility and full-stack projects like Waffle Da. From robust backend APIs with Spring Boot to responsive mobile interfaces with React Native, I transform complex requirements into seamless digital experiences.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
