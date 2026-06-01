@@ -16,7 +16,11 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Development Intern</h4>
-                <h5>Vallo Mobility</h5>
+                <h5>
+                  <a href="https://vallo.in" target="_blank" rel="noopener noreferrer">
+                    Vallo Mobility
+                  </a>
+                </h5>
               </div>
               <h3>PRESENT</h3>
             </div>
