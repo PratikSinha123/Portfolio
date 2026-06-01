@@ -15,13 +15,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Backend Developer</h4>
-                <h5>Routo</h5>
+                <h4>Software Development Intern</h4>
+                <h5>Vallo Mobility</h5>
               </div>
               <h3>PRESENT</h3>
             </div>
             <p>
-              Leading backend architecture and API design at Routo. Orchestrating scalable server-side solutions, managing databases, and ensuring seamless data integration to deliver high-performance applications.
+              Developing robust backend solutions using Spring Boot and building mobile frontend interfaces with React Native. Gaining hands-on industry experience through practical implementations and mentorship sessions.
             </p>
           </div>
           <div className="career-info-box">
